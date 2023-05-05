@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "ad3a8f1ea86634b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bc614694eabf1b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43e0bb4d0d20cd0b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a0f33531668715a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a3e239b0ed61e32",
+    "type": "split",
+    "children": [
+      {
+        "id": "d763c5253432c39c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fa673ea2c12ec0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fbeb32fc18cf27a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80943123a6699d7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40934a9359029dc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfc0237ad6bc8d0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a2c9a840c0f2b78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hello.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b58ce0b598635366",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d91cd8307213d35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7c5ee9667a33db4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hello.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9fa673ea2c12ec0d",
+  "lastOpenFiles": [
+    "coding博客/数据结构与算法/算法/反转链表系列.md",
+    "coding博客/网络编程/UDP协议：DatagramSocket.md",
+    "coding博客/网络编程/端口.md",
+    "coding博客/网络编程/TCP和UDP协议.md",
+    "coding博客/网络编程/TCP协议：Socket.md",
+    "coding博客/网络编程/IP地址.md",
+    "coding博客/IO流/OutputStream.md",
+    "coding博客/数据结构与算法/算法",
+    "coding博客/IO流/InputStream.md",
+    "coding博客/网络编程",
+    "coding博客/数据结构与算法",
+    "coding博客/IO流",
+    "coding博客",
+    "Hello.md"
+  ]
+}
