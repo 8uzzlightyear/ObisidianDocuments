@@ -152,11 +152,6 @@ socket.close();
 #### 注意事项
 - PrintWriter 第二个参数为 true 。
 
-### 输出结果
-
-![[Pasted image 20230503143929.png]]
-![[Pasted image 20230503143944.png]]
-
 ## 网络示例
 
 ### 服务端
