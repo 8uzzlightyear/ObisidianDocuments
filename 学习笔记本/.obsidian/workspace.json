@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding博客/数据结构与算法/数据结构/图.md"
+                "file": "coding博客/数据结构与算法/算法/动态规划.md"
               }
             }
           },
@@ -36,15 +36,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding博客/数据结构与算法/数据结构/图.md",
+                "file": "coding博客/数据结构与算法/算法/动态规划.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "bda9a9931c4f88dd"
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3474f4562131edc6",
@@ -57,7 +56,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding博客/数据结构与算法/数据结构/图.md"
+                "file": "coding博客/数据结构与算法/算法/动态规划.md"
               }
             },
             "group": "bda9a9931c4f88dd"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding博客/数据结构与算法/数据结构/图.md",
+                "file": "coding博客/数据结构与算法/算法/动态规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding博客/数据结构与算法/数据结构/图.md",
+                "file": "coding博客/数据结构与算法/算法/动态规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding博客/数据结构与算法/数据结构/图.md"
+                "file": "coding博客/数据结构与算法/算法/动态规划.md"
               }
             }
           }
@@ -189,15 +188,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "11d0af6123cf1d06",
+  "active": "9fa673ea2c12ec0d",
   "lastOpenFiles": [
+    "coding博客/数据结构与算法/算法/排序.md",
     "coding博客/数据结构与算法/算法/二分查找法.md",
+    "coding博客/数据结构与算法/算法/动态规划.md",
+    "coding博客/数据结构与算法/算法/递归.md",
+    "coding博客/项目/文件上传项目/遇到的问题.md",
+    "coding博客/八股",
     "coding博客/数据结构与算法/数据结构/图.md",
     "coding博客/项目/Mybatis.md",
     "coding博客/项目/SMBMS项目/遇到的问题.md",
     "coding博客/项目/SMBMS项目/创建项目.md",
     "coding博客/项目/SMBMS项目/2023.5.md",
-    "coding博客/项目/文件上传项目/遇到的问题.md",
     "coding博客/MySQL.md",
     "coding博客/数据结构与算法/Java语法熟练题/字符串比较.md",
     "coding博客/IO流/InputStream.md",
@@ -209,7 +212,6 @@
     "coding博客/项目/文件上传项目",
     "coding博客/项目",
     "coding博客/未命名.md",
-    "coding博客/数据结构与算法/算法/排序.md",
     "Pasted image 20230530135015.png",
     "Pasted image 20230527194949.png",
     "Pasted image 20230505162208.png",
@@ -227,15 +229,11 @@
     "Pasted image 20230527195202.png",
     "Pasted image 20230527195043.png",
     "coding博客/项目/SMBMS项目",
-    "coding博客/数据结构与算法/算法/递归.md",
     "coding博客/数据结构与算法/数据结构/二叉数/二叉树遍历.md",
     "coding博客/数据结构与算法/数据结构/二叉数/简单递归解决二叉树问题.md",
     "coding博客/数据结构与算法/数据结构/二叉数/较复杂的二叉树问题.md",
     "[较复杂的二叉树问题.md",
-    "coding博客/数据结构与算法/数据结构/二叉数/合并二叉树.md",
     "coding博客/数据结构与算法/数据结构/二叉数",
-    "coding博客/数据结构与算法/Java语法熟练题",
-    "coding博客/数据结构与算法/算法/二分查找法/二维数组中的查找.md",
-    "coding博客/数据结构与算法/算法/二分查找法"
+    "coding博客/数据结构与算法/Java语法熟练题"
   ]
 }
